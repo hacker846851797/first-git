@@ -1,4 +1,4 @@
-  1  git init
+ 1  git init
     2  git config --global user.name lzy
     3  git config --global user.name
     4  git config --global user.email 846851797@qq.com
@@ -15,7 +15,15 @@
    15  git log
    16  git log --pretty=oneline
    17  history
-  
-
-
-13213132
+   18  git add .
+   19  git status
+   20  gir status
+   21  git status
+   22  git diff
+   23  git add.
+   24  git add .
+   25  git status
+   26  git diff
+   27  git commit -m "version 0.0.3"
+   28  git log
+   29  history
